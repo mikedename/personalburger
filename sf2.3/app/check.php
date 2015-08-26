@@ -1,5 +1,7 @@
 <?php
 
+// another git test
+
 require_once dirname(__FILE__).'/SymfonyRequirements.php';
 
 $symfonyRequirements = new SymfonyRequirements();
